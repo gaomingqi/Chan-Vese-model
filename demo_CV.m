@@ -36,6 +36,7 @@ load('initial contours/init_contour1.mat');  % circle contour
 
 % show the given image with initial contour;
 subplot(1, 2, 1), imshow(u0, [0 255]), title('Given image u0');
+phi = double(phi);
 phi = imresize(phi, size(u0));
 hold on;
 contour(phi, [.5 .5], 'r', 'linewidth', 2);
