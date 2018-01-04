@@ -1,5 +1,5 @@
 # Chan-Vese-model
-A MATLAB implementation of Chan-Vese model for image segmentation, using idea proposed by Chan and Vese. For detail information, please refer to the paper ["Active Contours Without Edges"](http://ieeexplore.ieee.org/abstract/document/902291/), or [my blog](https://gaomingqi.github.io/posts/2016/12/blog-post-1/).
+A MATLAB implementation of Chan-Vese model for image segmentation, using idea proposed by Chan and Vese. For detailed information, please refer to the paper ["Active Contours Without Edges"](http://ieeexplore.ieee.org/abstract/document/902291/), or [my blog](https://gaomingqi.github.io/posts/2016/12/blog-post-1/).
 
 ### Usage
 * The test images are placed in "images" folder;  

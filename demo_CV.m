@@ -1,6 +1,6 @@
 % Active Contour using Chan-Vese fitting energy without narrow band
 % Author: Mingqi Gao, College of Computer Science, Chongqing University
-% Contact: gmingqi1993@foxmail.com
+% Contact: im.mingqi@gmail.com
 % Main Reference in this project:
 % [1] "Active Contours Without Edges", 
 %     Tony F. Chan and Luminita A. Vese. IEEE Trans on Image Processing, 2001.
